@@ -43,6 +43,8 @@ public class MainActivity extends AppCompatActivity implements FoodsAdapter.Food
                 "Tuz\n" +
                 "1 su bardağı su"));
 
+
+
         foodModelArrayList.add(new FoodModel("Taze Fasülye","40 dk",R.drawable.ic_fasulye,"600 gr taze yeşil fasulye (çalı fasulye kullandım)\n"+
                 "2 adet domates\n"+
                 "1 adet soğan\n"+
